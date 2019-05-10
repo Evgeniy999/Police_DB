@@ -18,4 +18,4 @@
 - [Архитектурное решение](https://github.com/Evgeniy999/Police_DB/blob/master/Documentation.md)
 - [Парное программирование](https://github.com/Evgeniy999/Police_DB/blob/master/Pair%20programming.md)
 - [Технический долг](https://github.com/Evgeniy999/Police_DB/blob/master/Technical_Debt.md)
-- [Улучшение UX]()
+- [Улучшение UX](https://github.com/Evgeniy999/Police_DB/blob/master/Review-Assistant.md)
